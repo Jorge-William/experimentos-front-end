@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  color: rgb(254, 235, 126);
+}
+
+h1 {
+  display: inline;
+}
+
+header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: rgb(79, 154, 201);
+  text-align: center;
+  height: 150px;
+  padding-top: 40px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px 20px;
+  color: white;
+}
+
+a:hover {
+  border-bottom: solid black 6px;
+  background-color: rgb(254, 235, 126);
+  color: black;
+}
+
+ul {
+  margin-top: 50px;
+}
+
+li {
+  display: inline;
+  align-items: center;
+}
