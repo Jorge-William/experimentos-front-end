@@ -16,3 +16,10 @@ https://user-images.githubusercontent.com/19416864/135513148-334ef077-6996-4111-
 
 ```
 ----
+</br>
+</br>
+</br>
+
+> ### Menu de navegação horizontal
+https://user-images.githubusercontent.com/19416864/135525500-94297b9f-270b-497d-aee2-55c12a2613cd.mov
+
