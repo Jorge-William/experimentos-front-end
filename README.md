@@ -23,3 +23,15 @@ https://user-images.githubusercontent.com/19416864/135513148-334ef077-6996-4111-
 > ### Menu de navegação horizontal
 https://user-images.githubusercontent.com/19416864/135525500-94297b9f-270b-497d-aee2-55c12a2613cd.mov
 
+</br>
+</br>
+</br>
+
+
+> ### Marcando página atual
+https://user-images.githubusercontent.com/19416864/135937965-46c3741a-37d0-4cc5-b675-69f0ea5060aa.mov
+
+</br>
+</br>
+</br>
+
