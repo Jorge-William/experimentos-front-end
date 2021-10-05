@@ -1,0 +1,38 @@
+div .container {
+  display: flex;
+  flex-direction: row;
+}
+
+div .horizontal ,
+div .vertical,
+div .diagonal,
+div .radial ,
+div .multi-stop {
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border: solid red 1px;
+}
+
+
+.vertical {
+  background:  grey;
+  background: linear-gradient(0deg, black, white);  
+}
+
+.diagonal {
+  background: linear-gradient(45deg, black, white);
+}
+
+.radial {
+  background: radial-gradient( black, white );  
+}
+
+.multi-stop {
+  background: linear-gradient( red, brown,grey ,black, white);
+}
+
+.horizontal {
+  background: linear-gradient( black, white);
+}
