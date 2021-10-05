@@ -38,7 +38,12 @@ https://user-images.githubusercontent.com/19416864/135937965-46c3741a-37d0-4cc5-
 > ### Navegando com abas
 https://user-images.githubusercontent.com/19416864/136037994-a71ca0f0-c8e8-4720-aa13-c7641719f034.mov
 
+</br>
+</br>
+</br>
 
+> ### Degradê
+![Captura de Tela 2021-10-05 às 3 28 09 PM](https://user-images.githubusercontent.com/19416864/136081768-a74f1962-1f68-403a-8c3d-73ca0afb41de.png)
 
 
 
